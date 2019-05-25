@@ -14,10 +14,7 @@ import Icon from '@material-ui/core/Icon';
 import IconButton from '@material-ui/core/IconButton';
 import {VideoIcon,VideoOffIcon,AudioIcon,AudioOffIcon} from './img/svgIcons'
 import NativeSelect from '@material-ui/core/NativeSelect';
-import EchoTest from './component/EchoTest'
-import PTTAudio from './component/PTTAudio'
 import MedoozeVideoRoom2 from './component/MedoozeVideoRoom2'
-import MedoozeVideoRoom3 from './component/MedoozeVideoRoom3'
 
 class App extends Component {
 
