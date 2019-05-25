@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 25px;
+  padding: 5px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.0em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.card-local{
+  background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+  borderRadius: 3;
+  border: 0;
+  color: white;
+  height: 480px;
+  width:480px;
+  padding: 0px 30px;
+}
+
+.card-remote{
+  background: linear-gradient(45deg, #82feea 30%, #584aff 90%);
+  borderRadius: 3;
+  border: 0;
+  color: white;
+  height: 480px;
+  width:480px;
+  padding: 0px 30px;
+}
